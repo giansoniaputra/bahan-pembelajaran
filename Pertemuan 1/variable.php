@@ -7,7 +7,7 @@
 
 // echo "Hai, Nama saya $nama_lengkap dan saya kuliah di $kampus";
 
-// PENAMAAN VARIABLE
-$nama_depan = "Gian";
-//Penamaan Variable Camel Case
-$namaDepanDanBelakang = "Dewi";
+// // PENAMAAN VARIABLE
+// $nama_depan = "Gian";
+// //Penamaan Variable Camel Case
+// $namaDepanDanBelakang = "Dewi";
